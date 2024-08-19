@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**asier13/asier13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Asier, a dedicated Software Engineer with a strong focus on Cybersecurity, IT automation, and cloud services. With a background in Incident Response and hands-on experience in advanced cybersecurity tools and methodologies, I am passionate about safeguarding digital environments and optimizing system operations.
 
-Here are some ideas to get you started:
+## 🎓 Education
+- **Bachelor's degree in Software Engineering**  
+  - U-TAD (2019 - 2024)
+- **Specialization in Cybersecurity**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills and Technologies
+- **Programming Languages**: C, C++, Bash, HTML, CSS, JavaScript, Java, Z80 Assembler, Python, R, Kotlin
+- **Cybersecurity Tools**: Splunk, Mitre Attack Framework, ServiceNow, PowerShell
+- **Cloud Services**: AWS, Docker, Kubernetes, pfSense
+- **Other Skills**: Forensic Analysis, Red Teaming, Vulnerability Assessment, IT Automation
+
+## 📬 Get in Touch
+- **LinkedIn**: [Asier Salcedo Berenguer](https://www.linkedin.com/in/asier-salcedo-140786262/)
+- **Email**: asier.salcedo69@gmail.com
