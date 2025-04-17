@@ -8,7 +8,8 @@ I'm Asier, a dedicated Software Engineer with a strong focus on Cybersecurity, I
 - **Specialization in Cybersecurity**
 - **Master's Degree in Cybersecurity**
   -Camilo José Cela (2024-2025)
--**Splunk Core Certified User**
+  
+- **Splunk Core Certified User**
 
 ## 🛠 Skills and Technologies
 - **Programming Languages**: C, C++, Bash, HTML, CSS, JavaScript, Java, Z80 Assembler, Python, R, Kotlin
